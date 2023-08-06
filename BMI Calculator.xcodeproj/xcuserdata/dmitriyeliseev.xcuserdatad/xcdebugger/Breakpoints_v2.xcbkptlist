@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "75F2FBE4-4588-4803-ACD7-9EE117C038CF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4A78C58-A083-4B70-96F6-9B2213D00FC7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BMI Calculator/Controllers/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4A78C58-A083-4B70-96F6-9B2213D00FC7 - 8ac6dce79a2d8428"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriyeliseev/Documents/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "F4A78C58-A083-4B70-96F6-9B2213D00FC7 - 8ac6dce79a2d84c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BMI_Calculator.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "BMI Calculator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitriyeliseev/Documents/BMI-Calculator/BMI%20Calculator/Controllers/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
